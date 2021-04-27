@@ -4615,3 +4615,118 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.04.27-21.58.48:180][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.27-21.58.48:183][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
 [2021.04.27-21.58.48:208][153]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.04.27-22.01.36:350][474]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.01.36:440][474]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.01.36:466][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/360Relaxation" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-22.01.36:492][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.27-22.01.36:510][474]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/360Relaxation5C387C4F474BDBA403076B9D06647862.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap'
+[2021.04.27-22.01.36:532][474]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.01.36:622][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/360Relaxation_BuiltData" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation_BuiltData.uasset" SILENT=true
+[2021.04.27-22.01.36:647][474]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/360Relaxation_BuiltData4E47941849BC1C01FA2C299FEC209F23.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation_BuiltData.uasset'
+[2021.04.27-22.01.36:658][474]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-22.01.36:658][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyMaps/360Relaxation_BuiltData.360Relaxation_BuiltData
+[2021.04.27-22.01.36:659][474]LogContentValidation: Display: Validating World /Game/MyMaps/360Relaxation.360Relaxation
+[2021.04.27-22.01.52:166][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.27-22.01.52:173][179]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.01.52:261][179]LogLinker: Warning: [AssetLog] D:\github\Immersive-Symphony\Content\MyMaps\DisplayRoom.umap: Failed to load '/Game/MyMaps/DisplayRoom_BuiltData': Can't find file.
+[2021.04.27-22.01.52:261][179]LogLinker: Warning: [AssetLog] D:\github\Immersive-Symphony\Content\MyMaps\DisplayRoom.umap: Failed to load '/Game/MyMaps/DisplayRoom_BuiltData': Can't find file.
+[2021.04.27-22.01.52:615][179]LogLinker: Warning: [AssetLog] D:\github\Immersive-Symphony\Content\MyMaps\DisplayRoom.umap: Failed to load '/Game/MyMaps/DisplayRoom_BuiltData': Can't find file.
+[2021.04.27-22.01.52:728][179]LogLinker: Warning: [AssetLog] D:\github\Immersive-Symphony\Content\MyMaps\DisplayRoom.umap: Failed to load '/Game/MyMaps/DisplayRoom_BuiltData': Can't find file.
+[2021.04.27-22.01.52:729][179]LoadErrors: Failed to load /Game/MyMaps/DisplayRoom_BuiltData.DisplayRoom_BuiltData Referenced by PersistentLevel
+[2021.04.27-22.01.52:890][179]LogTexture: Display: Building textures: matte_black (AutoDXT, 640X856)
+[2021.04.27-22.01.52:890][179]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak_Vertical, compiling. 
+[2021.04.27-22.01.53:310][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.04.27-22.01.53:310][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.04.27-22.01.53:310][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.04.27-22.01.53:310][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.04.27-22.01.53:310][179]LogMaterial: Display: Missing cached shader map for material T_Matte_black, compiling. 
+[2021.04.27-22.01.53:382][179]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2021.04.27-22.01.53:436][179]LogStaticMesh: Building static mesh Trumpet...
+[2021.04.27-22.01.53:705][179]LogStaticMesh: Built static mesh [0.27s] /Game/MyModels/Trumpet.Trumpet
+[2021.04.27-22.01.53:739][179]LogStaticMesh: Building static mesh Ukulele...
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.04.27-22.02.00:787][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.04.27-22.02.01:760][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.04.27-22.02.01:760][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.04.27-22.02.01:760][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.04.27-22.02.04:219][179]LogStaticMesh: Built static mesh [10.48s] /Game/MyModels/Ukulele.Ukulele
+[2021.04.27-22.02.08:820][179]LogStaticMesh: Building static mesh Stand...
+[2021.04.27-22.02.08:837][179]LogStaticMesh: Built static mesh [0.02s] /Game/MyModels/Stand.Stand
+[2021.04.27-22.02.08:838][179]LogStaticMesh: Building static mesh ud...
+[2021.04.27-22.02.38:209][179]LogStaticMesh: Built static mesh [29.37s] /Game/MyModels/ud.ud
+[2021.04.27-22.02.44:444][179]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.02.44:444][179]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.02.44:444][179]LightingResults: New page: Lighting Build
+[2021.04.27-22.02.44:444][179]LoadErrors: New page: Loading map: DisplayRoom.umap
+[2021.04.27-22.02.44:446][179]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.02.44:446][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.02.44:446][179]MapCheck: New page: Map Check
+[2021.04.27-22.02.44:446][179]LightingResults: New page: Lighting Build
+[2021.04.27-22.02.44:468][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.02.44:473][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.27-22.02.44:524][179]LogAudio: Display: Audio Device (ID: 1) registered with world 'DisplayRoom'.
+[2021.04.27-22.02.44:612][179]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.02.44:612][179]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.02.44:636][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.27-22.02.44:661][179]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.02.44:661][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2021.04.27-22.02.44:662][179]LogFileHelpers: Loading map 'DisplayRoom' took 0.217
+[2021.04.27-22.02.48:829][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.02.48:841][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.02.48:841][198]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:02:48 AM)
+[2021.04.27-22.02.48:842][198]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.02.48:848][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005968s)
+[2021.04.27-22.02.48:849][198]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.02.48:850][198]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2021.04.27-22.02.48:850][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.008221s)
+[2021.04.27-22.02.48:871][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.27-22.02.48:873][198]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.02.48:873][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.02.48:873][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.02.48:874][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.02.48:874][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.02.48:881][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.02.48:881][198]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.02.48:940][198]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.02.48:940][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.02.48:940][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.02.48:940][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.02.48:941][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.02.48:941][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.02.48:941][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.02.48:959][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.02.48:959][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.02.48:959][198]LogInit: FAudioDevice initialized.
+[2021.04.27-22.02.48:959][198]LogAudio: Display: Audio Device (ID: 42) registered with world 'DisplayRoom'.
+[2021.04.27-22.02.48:970][198]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.02.48:972][198]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.02.48
+[2021.04.27-22.02.48:972][198]LogWorld: Bringing up level for play took: 0.002069
+[2021.04.27-22.02.48:973][198]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.04.27-22.02.49:063][198]PIE: Server logged in
+[2021.04.27-22.02.49:064][198]PIE: Play in editor total start time 0.224 seconds.
+[2021.04.27-22.02.50:454][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.02.50:454][275]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.02.50:454][275]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.02.50:454][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.02.50:464][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.02.50:469][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.02.50:489][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.02.50:489][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.02.50:490][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.02.50:513][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.02.50:517][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.27-22.02.50:544][276]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.04.27-22.03.13:684][662]Cmd: SELECT NONE
+[2021.04.27-22.04.05:634][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms

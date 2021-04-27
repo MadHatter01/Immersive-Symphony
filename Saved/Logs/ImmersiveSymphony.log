@@ -4730,3 +4730,1464 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.04.27-22.02.50:544][276]LogPlayLevel: Display: Destroying online subsystem :Context_60
 [2021.04.27-22.03.13:684][662]Cmd: SELECT NONE
 [2021.04.27-22.04.05:634][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.27-22.10.29:876][851]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.10.30:236][868]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.10.32:110][969]MapCheck: New page: Map Check
+[2021.04.27-22.10.32:116][969]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.10.32:123][969]LightingResults: New page: Lighting Build - Apr 27, 2021, 8:10:32 AM
+[2021.04.27-22.10.32:175][969]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.27-22.10.32:333][969]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.27-22.10.32:350][969]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.27-22.10.33:373][969]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.27-22.10.33:373][969]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1780
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.27-22.10.35:922][969]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.27-22.10.47:805][969]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.10.47:809][969]LogEditorBuildUtils: Build time 0:15
+[2021.04.27-22.10.47:819][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Matte_black, compiling. 
+[2021.04.27-22.10.47:865][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Matte_black, compiling. 
+[2021.04.27-22.10.47:893][970]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.04.27-22.10.47:893][970]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.27-22.10.47:893][970]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.04.27-22.10.47:893][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.04.27-22.10.47:905][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak_Vertical, compiling. 
+[2021.04.27-22.10.47:909][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak_Vertical, compiling. 
+[2021.04.27-22.10.47:913][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2021.04.27-22.10.47:918][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2021.04.27-22.10.47:960][971]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fire_SubUV, compiling. 
+[2021.04.27-22.10.47:968][971]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Fire_SubUV, compiling. 
+[2021.04.27-22.10.48:011][972]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2021.04.27-22.10.48:016][972]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2021.04.27-22.10.48:020][972]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2021.04.27-22.10.48:031][972]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.04.27-22.10.50:525][973]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.27-22.10.50:956][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.27-22.11.39:142][518]LightingResults: Warning: Ukulele Object has overlapping UVs.
+[2021.04.27-22.11.39:142][518]LightingResults: Ukulele Lightmap UV are overlapping by 3.1%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-22.12.05:591][649]LightingResults: Warning: ud Object has overlapping UVs.
+[2021.04.27-22.12.05:591][649]LightingResults: ud Lightmap UV are overlapping by 38.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.27-22.12.05:931][652]Job is a success!
+[2021.04.27-22.12.05:992][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.12.05:998][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.27-22.12.06:141][653]LogVolumetricLightmapImport:          DisplayRoom 			 2 bricks 	 100.0% (Persistent Level)
+[2021.04.27-22.12.06:495][653]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.04.27-22.12.06:495][653]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.04.27-22.12.06:495][653]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2021.04.27-22.12.06:495][653]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2021.04.27-22.12.06:629][653]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2021.04.27-22.12.06:629][653]Lightmass on DESKTOP-2DFA3NC: 1:14 min total, 4.55 sec importing, 1.84 sec setup, 28.0 sec photons, 40.3 sec processing, 0 ms extra exporting [40/40 mappings]. Threads: 4:42 min total, 57.6 sec processing.
+[2021.04.27-22.12.06:629][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.12.06:681][653]LogStaticLightingSystem: DisplayRoom_BuiltData storing lightmap data for 40 meshes in 3 LightmapResourceClusters (13.3 Meshes per cluster).
+[2021.04.27-22.12.06:710][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.27-22.12.06:730][653]LogStaticLightingSystem: Illumination: 1:34 min (346 ms encoding lightmaps, 32 ms encoding shadowmaps)
+[2021.04.27-22.12.06:730][653]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.04.27-22.12.06:731][653]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.04.27-22.12.11:985][653]DumpUnbuiltLightIteractions
+[2021.04.27-22.12.11:985][653]Lights with unbuilt interactions: 0
+[2021.04.27-22.12.11:985][653]
+[2021.04.27-22.12.11:985][653]Primitives with unbuilt interactions: 0
+[2021.04.27-22.12.11:989][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.12.12:073][654]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.27-22.12.12:073][654]MapCheck: New page: DisplayRoom - Apr 27, 2021, 8:12:12 AM
+[2021.04.27-22.12.12:073][654]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.637ms to complete.
+[2021.04.27-22.12.14:037][769]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-22.12.14:045][769]LogSlate: Window 'Message Log' being destroyed
+[2021.04.27-22.12.15:363][846]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.12.15:375][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.12.15:375][846]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:12:15 AM)
+[2021.04.27-22.12.15:375][846]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.12.15:380][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004130s)
+[2021.04.27-22.12.15:381][846]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.12.15:381][846]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2021.04.27-22.12.15:381][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.005549s)
+[2021.04.27-22.12.15:405][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.04.27-22.12.15:406][846]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.12.15:406][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.12.15:406][846]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.12.15:406][846]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.12.15:413][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.12.15:413][846]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.12.15:477][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.12.15:477][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.12.15:499][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.12.15:499][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.12.15:499][846]LogInit: FAudioDevice initialized.
+[2021.04.27-22.12.15:499][846]LogAudio: Display: Audio Device (ID: 43) registered with world 'DisplayRoom'.
+[2021.04.27-22.12.15:510][846]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.12.15:514][846]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.12.15
+[2021.04.27-22.12.15:514][846]LogWorld: Bringing up level for play took: 0.002352
+[2021.04.27-22.12.15:514][846]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.04.27-22.12.15:519][846]PIE: Server logged in
+[2021.04.27-22.12.15:520][846]PIE: Play in editor total start time 0.145 seconds.
+[2021.04.27-22.12.33:674][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.12.33:674][932]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.12.33:675][932]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.12.33:675][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.12.33:689][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.12.33:712][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.12.33:733][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.12.33:733][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.12.33:734][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.12.33:763][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.27-22.12.33:789][933]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.04.27-22.12.40:822][355]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight)
+[2021.04.27-22.14.05:193][375]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.14.05:207][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.14.05:207][375]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:14:05 AM)
+[2021.04.27-22.14.05:207][375]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.14.05:211][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004130s)
+[2021.04.27-22.14.05:213][375]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.14.05:213][375]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2021.04.27-22.14.05:213][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.006052s)
+[2021.04.27-22.14.05:236][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.04.27-22.14.05:238][375]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.14.05:238][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.14.05:238][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.14.05:239][375]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.14.05:239][375]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.14.05:246][375]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.14.05:246][375]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.14.05:303][375]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.14.05:304][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.14.05:304][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.14.05:304][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.14.05:304][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.14.05:304][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.14.05:304][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.14.05:324][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.14.05:324][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.14.05:325][375]LogInit: FAudioDevice initialized.
+[2021.04.27-22.14.05:325][375]LogAudio: Display: Audio Device (ID: 44) registered with world 'DisplayRoom'.
+[2021.04.27-22.14.05:338][375]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.14.05:341][375]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.14.05
+[2021.04.27-22.14.05:341][375]LogWorld: Bringing up level for play took: 0.001709
+[2021.04.27-22.14.05:341][375]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.04.27-22.14.05:345][375]PIE: Server logged in
+[2021.04.27-22.14.05:346][375]PIE: Play in editor total start time 0.14 seconds.
+[2021.04.27-22.14.45:115][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.14.45:115][757]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.14.45:115][757]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.14.45:116][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.14.45:128][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.14.45:141][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.14.45:161][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.14.45:161][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.14.45:163][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.14.45:190][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.27-22.14.45:232][758]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.04.27-22.15.08:425][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2021.04.27-22.15.10:432][266]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight)
+[2021.04.27-22.15.16:322][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2021.04.27-22.15.23:924][ 68]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight)
+[2021.04.27-22.16.13:176][990]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.17.11:106][431]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.18.55:466][674]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.04.27-22.18.56:600][739]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.04.27-22.18.57:606][797]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2021.04.27-22.18.59:062][882]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.04.27-22.19.00:511][966]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.04.27-22.19.01:585][ 28]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.04.27-22.19.03:823][160]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2021.04.27-22.19.14:993][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2021.04.27-22.19.25:916][477]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Button_Play2)
+[2021.04.27-22.19.31:532][808]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.19.31:545][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.19.31:545][808]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:19:31 AM)
+[2021.04.27-22.19.31:545][808]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.19.31:550][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004757s)
+[2021.04.27-22.19.31:551][808]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.19.31:551][808]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.04.27-22.19.31:552][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.006207s)
+[2021.04.27-22.19.31:586][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.27-22.19.31:590][808]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.19.31:590][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.19.31:590][808]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.19.31:590][808]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.19.31:596][808]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.19.31:596][808]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.19.31:655][808]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.19.31:655][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.19.31:655][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.19.31:655][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.19.31:656][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.19.31:656][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.19.31:656][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.19.31:676][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.19.31:676][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.19.31:676][808]LogInit: FAudioDevice initialized.
+[2021.04.27-22.19.31:676][808]LogAudio: Display: Audio Device (ID: 45) registered with world 'DisplayRoom'.
+[2021.04.27-22.19.31:690][808]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.19.31:693][808]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.19.31
+[2021.04.27-22.19.31:694][808]LogWorld: Bringing up level for play took: 0.002094
+[2021.04.27-22.19.31:694][808]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.04.27-22.19.31:698][808]PIE: Server logged in
+[2021.04.27-22.19.31:699][808]PIE: Play in editor total start time 0.155 seconds.
+[2021.04.27-22.19.37:417][147]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=674.512 Y=314.159 Z=58.126] for [FirstPersonProjectile_C]
+[2021.04.27-22.19.37:728][153]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.04.27-22.19.38:994][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.19.38:994][223]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.19.38:994][223]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.19.38:995][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.19.39:005][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.19.39:019][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.19.39:040][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.19.39:040][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.19.39:042][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.19.39:066][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.19.39:069][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.27-22.19.39:117][224]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.04.27-22.19.56:843][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.19.56:949][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.19.56:962][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/DisplayRoom" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-22.19.56:985][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.04.27-22.19.57:010][281]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/DisplayRoom00D7711842A0C55EA1C54CBE9C8929C0.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap'
+[2021.04.27-22.19.57:034][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.19.57:133][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/DisplayRoom_BuiltData" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom_BuiltData.uasset" SILENT=true
+[2021.04.27-22.19.57:248][281]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/DisplayRoom_BuiltDataB7C1E8A74F009DA184C733B992004837.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom_BuiltData.uasset'
+[2021.04.27-22.19.57:253][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.19.57:410][281]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.04.27-22.19.57:410][281]SourceControl: Error: Content/MyMaps/DisplayRoom_BuiltData.uasset
+[2021.04.27-22.19.57:410][281]SourceControl: Error: Use -f if you really want to add them.
+[2021.04.27-22.19.57:429][281]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-22.19.57:430][281]LogContentValidation: Display: Validating World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.19.57:430][281]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyMaps/DisplayRoom_BuiltData.DisplayRoom_BuiltData
+[2021.04.27-22.19.58:314][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.27-22.20.02:175][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.27-22.20.02:181][555]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.20.02:226][555]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/360Relaxation.360Relaxation
+[2021.04.27-22.20.02:226][555]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.20.02:226][555]LightingResults: New page: Lighting Build
+[2021.04.27-22.20.02:226][555]LoadErrors: New page: Loading map: 360Relaxation.umap
+[2021.04.27-22.20.02:228][555]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.20.02:228][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.20.02:228][555]MapCheck: New page: Map Check
+[2021.04.27-22.20.02:228][555]LightingResults: New page: Lighting Build
+[2021.04.27-22.20.02:250][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.20.02:255][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.27-22.20.02:257][555]LogAudio: Display: Audio Device (ID: 1) registered with world '360Relaxation'.
+[2021.04.27-22.20.02:334][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.20.02:334][555]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.20.02:360][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.27-22.20.02:377][555]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.20.02:377][555]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.04.27-22.20.02:377][555]LogFileHelpers: Loading map '360Relaxation' took 0.151
+[2021.04.27-22.20.05:770][753]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.20.05:782][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.20.05:783][753]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:20:05 AM)
+[2021.04.27-22.20.05:783][753]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.20.05:803][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020244s)
+[2021.04.27-22.20.05:804][753]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.20.05:804][753]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2021.04.27-22.20.05:804][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.022250s)
+[2021.04.27-22.20.05:826][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.27-22.20.05:827][753]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.20.05:827][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.20.05:827][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.20.05:828][753]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.20.05:828][753]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.20.05:833][753]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.20.05:833][753]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.20.05:889][753]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.20.05:889][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.20.05:889][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.20.05:889][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.20.05:889][753]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.20.05:890][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.20.05:890][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.20.05:910][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.20.05:910][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.20.05:910][753]LogInit: FAudioDevice initialized.
+[2021.04.27-22.20.05:910][753]LogAudio: Display: Audio Device (ID: 46) registered with world '360Relaxation'.
+[2021.04.27-22.20.05:918][753]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.20.05:920][753]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.20.05
+[2021.04.27-22.20.05:921][753]LogWorld: Bringing up level for play took: 0.000863
+[2021.04.27-22.20.05:921][753]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.04.27-22.20.05:925][753]PIE: Server logged in
+[2021.04.27-22.20.05:926][753]PIE: Play in editor total start time 0.145 seconds.
+[2021.04.27-22.20.23:425][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.20.23:425][799]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.20.23:425][799]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.20.23:425][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.20.23:438][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.20.23:442][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.20.23:462][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.20.23:462][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.20.23:464][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.20.23:487][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.20.23:491][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.27-22.20.23:520][800]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.04.27-22.20.37:742][650]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.20.37:759][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.20.37:759][650]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:20:37 AM)
+[2021.04.27-22.20.37:759][650]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.20.37:762][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002730s)
+[2021.04.27-22.20.37:763][650]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.20.37:764][650]LogPlayLevel: PIE: World Init took: (0.001955s)
+[2021.04.27-22.20.37:764][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.004953s)
+[2021.04.27-22.20.37:787][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.27-22.20.37:788][650]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.20.37:788][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.20.37:788][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.20.37:789][650]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.20.37:789][650]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.20.37:794][650]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.20.37:794][650]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.20.37:856][650]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.20.37:856][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.20.37:856][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.20.37:856][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.20.37:856][650]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.20.37:857][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.20.37:857][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.20.37:883][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.20.37:883][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.20.37:883][650]LogInit: FAudioDevice initialized.
+[2021.04.27-22.20.37:883][650]LogAudio: Display: Audio Device (ID: 47) registered with world '360Relaxation'.
+[2021.04.27-22.20.37:894][650]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.20.37:896][650]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.20.37
+[2021.04.27-22.20.37:896][650]LogWorld: Bringing up level for play took: 0.000651
+[2021.04.27-22.20.37:896][650]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.04.27-22.20.37:900][650]PIE: Server logged in
+[2021.04.27-22.20.37:901][650]PIE: Play in editor total start time 0.144 seconds.
+[2021.04.27-22.20.52:485][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.20.52:485][522]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.20.52:485][522]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.20.52:485][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.20.52:494][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.20.52:498][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.20.52:520][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.20.52:520][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.20.52:521][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.20.52:557][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.04.27-22.20.52:585][523]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.04.27-22.21.02:407][ 82]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.02:441][ 82]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyMaterials/pano_Mat.pano_Mat
+[2021.04.27-22.21.02:443][ 82]LogMaterial: Display: Missing cached shader map for material pano_Mat, compiling. 
+[2021.04.27-22.21.02:561][ 82]LogMaterial: Display: Missing cached shader map for material pano_Mat, compiling. 
+[2021.04.27-22.21.02:573][ 82]LogMaterial: Display: Missing cached shader map for material pano_Mat, compiling. 
+[2021.04.27-22.21.02:589][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.04.27-22.21.02:589][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.04.27-22.21.02:589][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.04.27-22.21.02:589][ 82]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.04.27-22.21.02:594][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.27-22.21.03:122][100]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.04.27-22.21.03:368][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.04.27-22.21.03:821][138]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.04.27-22.21.03:840][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.04.27-22.21.04:034][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.04.27-22.21.04:542][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.04.27-22.21.04:542][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.04.27-22.21.04:973][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.04.27-22.21.05:023][202]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.04.27-22.21.05:171][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.04.27-22.21.05:611][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.04.27-22.21.05:676][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.04.27-22.21.05:709][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.04.27-22.21.06:245][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.04.27-22.21.06:589][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.27-22.21.20:160][ 90]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.21.20:160][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.21.21:803][183]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.27-22.21.21:813][183]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.27-22.21.21:823][183]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.21.21:823][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.21.31:251][735]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.34:930][934]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.35:344][957]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.36:288][ 12]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.36:310][ 12]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyMaps/360Relaxation.360Relaxation:PersistentLevel.360Relaxation
+[2021.04.27-22.21.36:355][ 12]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.38:596][117]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.21.39:223][139]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.37:673][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.38:041][534]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.39:740][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.40:629][645]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.42:871][776]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.43:483][803]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.22.59:716][755]LogSlate: Window '360Relaxation' being destroyed
+[2021.04.27-22.22.59:724][755]LogSlate: Window '360Relaxation' being destroyed
+[2021.04.27-22.22.59:741][755]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.22.59:741][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.23.17:593][815]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.19:871][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.04.27-22.23.24:517][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.24:546][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.24:596][211]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.27-22.23.31:015][211]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.27-22.23.31:741][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.32:245][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.32:983][310]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.35:781][310]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.27-22.23.36:629][352]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.40:384][352]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.27-22.23.40:480][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.27-22.23.40:508][352]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.40:519][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.23.40:578][352]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.49:071][810]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.49:879][844]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.23.57:101][256]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.01:195][486]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.02:012][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.20:742][618]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.23:958][802]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.30:400][177]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.24.30:474][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.27-22.24.31:124][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.31:218][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.31:247][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Sphere_Blueprint" FILE="../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset" SILENT=true
+[2021.04.27-22.24.31:265][213]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/Sphere_BlueprintF05DBF904B9E24862D2397934DDEDE35.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset'
+[2021.04.27-22.24.31:268][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.24.31:507][213]AssetCheck: New page: Asset Save: Sphere_Blueprint
+[2021.04.27-22.24.31:507][213]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.24.33:598][331]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.24.33:613][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.24.33:613][331]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:24:33 AM)
+[2021.04.27-22.24.33:614][331]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.24.33:618][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004662s)
+[2021.04.27-22.24.33:620][331]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.24.33:621][331]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2021.04.27-22.24.33:621][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.006927s)
+[2021.04.27-22.24.33:644][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.27-22.24.33:645][331]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.24.33:645][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.24.33:645][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.24.33:646][331]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.24.33:646][331]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.24.33:651][331]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.24.33:651][331]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.24.33:708][331]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.24.33:709][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.24.33:709][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.24.33:709][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.24.33:709][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.24.33:709][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.24.33:709][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.24.33:734][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.24.33:734][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.24.33:734][331]LogInit: FAudioDevice initialized.
+[2021.04.27-22.24.33:734][331]LogAudio: Display: Audio Device (ID: 48) registered with world '360Relaxation'.
+[2021.04.27-22.24.33:750][331]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.24.33:752][331]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.24.33
+[2021.04.27-22.24.33:752][331]LogWorld: Bringing up level for play took: 0.000859
+[2021.04.27-22.24.33:752][331]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.04.27-22.24.33:889][331]PIE: Server logged in
+[2021.04.27-22.24.33:890][331]PIE: Play in editor total start time 0.278 seconds.
+[2021.04.27-22.24.50:934][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.24.50:934][352]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.24.50:934][352]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.24.50:935][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.24.50:945][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.24.50:965][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.24.50:986][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.24.50:986][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.24.50:987][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.24.51:011][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.24.51:014][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.27-22.24.51:059][353]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.04.27-22.24.58:882][800]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.25.09:670][410]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.25.09:744][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.27-22.25.10:442][448]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.25.10:534][448]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.25.10:570][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Sphere_Blueprint" FILE="../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset" SILENT=true
+[2021.04.27-22.25.10:590][448]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/Sphere_Blueprint75D9195F41F30DBC33EB39AC5F3594B9.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset'
+[2021.04.27-22.25.10:605][448]AssetCheck: New page: Asset Save: Sphere_Blueprint
+[2021.04.27-22.25.10:605][448]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.25.12:849][575]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.25.12:861][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.25.12:861][575]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:25:12 AM)
+[2021.04.27-22.25.12:861][575]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.25.12:864][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003449s)
+[2021.04.27-22.25.12:866][575]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.25.12:866][575]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2021.04.27-22.25.12:866][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.005242s)
+[2021.04.27-22.25.12:889][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.27-22.25.12:890][575]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.25.12:890][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.25.12:890][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.25.12:891][575]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.25.12:891][575]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.25.12:896][575]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.25.12:896][575]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.25.12:957][575]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.25.12:957][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.25.12:957][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.25.12:958][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.25.12:958][575]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.25.12:958][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.25.12:958][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.25.12:983][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.25.12:983][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.25.12:983][575]LogInit: FAudioDevice initialized.
+[2021.04.27-22.25.12:983][575]LogAudio: Display: Audio Device (ID: 49) registered with world '360Relaxation'.
+[2021.04.27-22.25.12:992][575]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.25.12:994][575]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.25.12
+[2021.04.27-22.25.12:994][575]LogWorld: Bringing up level for play took: 0.000705
+[2021.04.27-22.25.12:994][575]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.04.27-22.25.12:998][575]PIE: Server logged in
+[2021.04.27-22.25.12:999][575]PIE: Play in editor total start time 0.139 seconds.
+[2021.04.27-22.25.23:716][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.25.23:716][215]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.25.23:716][215]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.25.23:716][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.25.23:732][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.25.23:751][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.25.23:773][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.25.23:773][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.25.23:773][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.25.23:796][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.25.23:799][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.27-22.25.23:842][216]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.04.27-22.25.31:179][631]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.25.31:251][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.27-22.25.31:685][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.25.31:784][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.25.31:808][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Sphere_Blueprint" FILE="../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset" SILENT=true
+[2021.04.27-22.25.31:825][653]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/Sphere_BlueprintDCC20A9E401380FC99C0B292DD57996D.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset'
+[2021.04.27-22.25.31:838][653]AssetCheck: New page: Asset Save: Sphere_Blueprint
+[2021.04.27-22.25.31:838][653]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.25.32:668][703]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2021.04.27-22.25.32:674][703]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2021.04.27-22.25.32:702][703]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.25.32:702][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.26.57:587][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.04.27-22.26.57:646][521]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.27.00:272][521]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-22.27.02:051][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.27-22.27.02:128][625]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.27.03:650][625]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-22.27.03:664][625]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.27.03:701][625]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.27.03:702][625]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.27.03:702][625]LightingResults: New page: Lighting Build
+[2021.04.27-22.27.03:702][625]LoadErrors: New page: Loading map: DisplayRoom.umap
+[2021.04.27-22.27.03:704][625]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.27.03:704][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.27.03:704][625]MapCheck: New page: Map Check
+[2021.04.27-22.27.03:704][625]LightingResults: New page: Lighting Build
+[2021.04.27-22.27.03:724][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.27.03:731][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.04.27-22.27.03:731][625]LogAudio: Display: Audio Device (ID: 1) registered with world 'DisplayRoom'.
+[2021.04.27-22.27.03:821][625]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.27.03:821][625]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.27.03:845][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.27-22.27.03:863][625]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.27.03:863][625]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2021.04.27-22.27.03:863][625]LogFileHelpers: Loading map 'DisplayRoom' took 0.162
+[2021.04.27-22.27.13:689][213]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.04.27-22.27.38:170][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x402)
+[2021.04.27-22.27.47:500][186]Cmd: DELETE
+[2021.04.27-22.27.47:500][186]Cmd: ACTOR DELETE
+[2021.04.27-22.27.47:502][186]LogEditorActor: Deleted Actor: PointLight
+[2021.04.27-22.27.47:503][186]LogEditorActor: Deleted Actor: PointLight
+[2021.04.27-22.27.47:523][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.27-22.27.47:530][186]LogEditorActor: Deleted 2 Actors (0.029 secs)
+[2021.04.27-22.28.29:911][723]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.30:341][748]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.31:483][797]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.34:251][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.34:276][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.34:369][951]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Vaishnavi/Epic Games/UE_4.26/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.04.27-22.28.34:369][951]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.27-22.28.34:369][951]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.27-22.28.34:369][951]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.27-22.28.34:371][951]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.04.27-22.28.34:443][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset"
+[2021.04.27-22.28.34:475][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset"
+[2021.04.27-22.28.34:499][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset"
+[2021.04.27-22.28.34:526][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset"
+[2021.04.27-22.28.34:550][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset"
+[2021.04.27-22.28.34:564][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+[2021.04.27-22.28.34:599][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset"
+[2021.04.27-22.28.34:614][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset"
+[2021.04.27-22.28.34:626][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset"
+[2021.04.27-22.28.34:690][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset"
+[2021.04.27-22.28.34:753][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset"
+[2021.04.27-22.28.34:773][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/GenericHMDMaterial.uasset"
+[2021.04.27-22.28.34:818][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MF_OccludedPixels.uasset"
+[2021.04.27-22.28.34:831][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset"
+[2021.04.27-22.28.34:844][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset"
+[2021.04.27-22.28.34:856][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset"
+[2021.04.27-22.28.34:929][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_SmallCubes.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MI_SmallCubes.uasset"
+[2021.04.27-22.28.34:961][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset"
+[2021.04.27-22.28.34:982][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/M_ArcEndpoint.uasset"
+[2021.04.27-22.28.34:996][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_BaseMaterial.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/M_BaseMaterial.uasset"
+[2021.04.27-22.28.35:009][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_SplineArcMat.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/M_SplineArcMat.uasset"
+[2021.04.27-22.28.35:022][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/M_TeleportPreviews.uasset"
+[2021.04.27-22.28.35:033][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Materials/TeleportMCP.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Materials/TeleportMCP.uasset"
+[2021.04.27-22.28.35:046][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/1x1_cube.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Meshes/1x1_cube.uasset"
+[2021.04.27-22.28.35:059][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/BeaconDirection.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Meshes/BeaconDirection.uasset"
+[2021.04.27-22.28.35:071][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/BeamMesh.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Meshes/BeamMesh.uasset"
+[2021.04.27-22.28.35:086][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/GenericHMD.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Meshes/GenericHMD.uasset"
+[2021.04.27-22.28.35:105][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualReality/Meshes/SM_FatCylinder.uasset"
+[2021.04.27-22.28.35:130][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset"
+[2021.04.27-22.28.35:209][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset"
+[2021.04.27-22.28.35:217][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/GripEnum.uasset"
+[2021.04.27-22.28.35:249][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset"
+[2021.04.27-22.28.35:257][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset"
+[2021.04.27-22.28.35:278][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset"
+[2021.04.27-22.28.35:301][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset"
+[2021.04.27-22.28.35:307][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Blueprints/VirtualRealityPawn.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Blueprints/VirtualRealityPawn.uasset"
+[2021.04.27-22.28.35:322][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap"
+[2021.04.27-22.28.35:379][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset"
+[2021.04.27-22.28.35:403][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/MotionControllerMap.umap"
+[2021.04.27-22.28.35:497][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset"
+[2021.04.27-22.28.35:534][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/StartupMap.umap" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/StartupMap.umap"
+[2021.04.27-22.28.35:560][951]LogPackFactory: Copied "../../../Templates/TP_VirtualRealityBP/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" to "../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset"
+[2021.04.27-22.28.35:598][951]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2021.04.27-22.28.35:602][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.35:700][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.35:904][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.35:998][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:202][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:292][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:485][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:576][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:787][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.36:887][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:086][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:188][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:385][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:485][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:694][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:791][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.37:984][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.38:085][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.38:296][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.38:389][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.38:593][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.38:692][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:242][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:343][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:605][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:689][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:871][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.39:955][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:137][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:233][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:410][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:505][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:690][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:771][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.40:946][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:038][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:230][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:322][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:492][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:590][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:781][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.41:871][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:031][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:122][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:291][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:368][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:564][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:660][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:865][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.42:956][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:124][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:221][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:389][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:470][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:687][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:786][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.43:973][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:053][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:270][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:356][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:536][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:623][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:792][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.44:891][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:152][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:239][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:417][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:504][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:705][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:786][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.45:968][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:055][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:270][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:354][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:721][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:803][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.46:946][951]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.04.27-22.28.46:946][951]SourceControl: Error: Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset
+[2021.04.27-22.28.46:946][951]SourceControl: Error: Use -f if you really want to add them.
+[2021.04.27-22.28.46:952][951]LogPackFactory: Error: Could not mark ../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset file for add.
+[2021.04.27-22.28.46:955][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:035][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:241][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:338][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:477][951]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.04.27-22.28.47:477][951]SourceControl: Error: Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2021.04.27-22.28.47:477][951]SourceControl: Error: Use -f if you really want to add them.
+[2021.04.27-22.28.47:481][951]LogPackFactory: Error: Could not mark ../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset file for add.
+[2021.04.27-22.28.47:484][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:570][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:763][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.47:854][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.48:006][951]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.04.27-22.28.48:006][951]SourceControl: Error: Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset
+[2021.04.27-22.28.48:006][951]SourceControl: Error: Use -f if you really want to add them.
+[2021.04.27-22.28.48:009][951]LogPackFactory: Error: Could not mark ../../../../../../github/Immersive-Symphony/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset file for add.
+[2021.04.27-22.28.48:031][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.48:122][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.28.48:236][951]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/MannequinHand_Right_CanGrabAF8F62D34CA700A691BC49AEA161C638.tmp' to '../../../../../../github/Immersive-Symphony/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset'
+[2021.04.27-22.28.48:249][951]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/VirtualReality': Can't find file.
+[2021.04.27-22.28.48:249][951]LogLinker: Warning: Failed to load '/Game/VirtualRealityBP/VirtualReality': Can't find file.
+[2021.04.27-22.28.48:249][951]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VirtualRealityBP/VirtualReality.VirtualReality'
+[2021.04.27-22.28.48:254][951]AssetCheck: New page: Asset Save: MannequinHand_Right_CanGrab
+[2021.04.27-22.28.48:254][951]LogContentValidation: Display: Validating AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2021.04.27-22.28.50:400][ 73]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.04.27-22.29.12:658][390]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.12:785][397]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.15:273][543]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.15:304][544]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.17:377][652]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.27-22.29.17:390][652]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.27-22.29.19:108][755]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2021.04.27-22.29.19:112][755]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.19:218][755]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.27-22.29.20:585][836]LogObjectTools: Deleting 1 worlds: /Game/MyMaps/NewWorld.NewWorld
+[2021.04.27-22.29.20:585][836]LogObjectTools: Currently 13 active worlds: /Game/MyMaps/DisplayRoom.DisplayRoom, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_16, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_24
+[2021.04.27-22.29.20:607][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.04.27-22.29.20:685][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.21:694][836]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.27-22.29.21:707][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.21:720][836]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.29.21:720][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.29.21:734][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.21:758][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.21:815][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.27-22.29.23:126][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.24:165][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.25:362][970]LogSlate: Window 'New Level' being destroyed
+[2021.04.27-22.29.25:429][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.27:074][970]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-22.29.27:088][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.27:185][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.27:205][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/DisplayRoom" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-22.29.27:226][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.27-22.29.27:254][970]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/DisplayRoomA569801B4AF89945DD49D99CBA45D366.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap'
+[2021.04.27-22.29.27:274][970]LogFileHelpers: Saving map 'DisplayRoom' took 0.069
+[2021.04.27-22.29.27:282][970]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.29.27:285][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.27:302][970]LightingResults: New page: Lighting Build
+[2021.04.27-22.29.27:303][970]LoadErrors: New page: Loading map: VR-Basic.umap
+[2021.04.27-22.29.27:304][970]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.29.27:304][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.29.27:304][970]MapCheck: New page: Map Check
+[2021.04.27-22.29.27:304][970]LightingResults: New page: Lighting Build
+[2021.04.27-22.29.27:324][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.29.27:328][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.27-22.29.27:352][970]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2021.04.27-22.29.27:353][970]LogAIModule: Creating AISystem for world Untitled_3
+[2021.04.27-22.29.27:426][970]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.29.27:448][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.04.27-22.29.27:457][970]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.29.27:457][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2021.04.27-22.29.27:457][970]LogFileHelpers: Loading map 'VR-Basic' took 0.176
+[2021.04.27-22.29.27:464][970]AssetCheck: New page: Asset Save: DisplayRoom
+[2021.04.27-22.29.27:464][970]LogContentValidation: Display: Validating World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.29.35:112][425]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.29.35:125][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.29.35:125][425]PIE: New page: PIE session: Untitled_3 (Apr 27, 2021, 8:29:35 AM)
+[2021.04.27-22.29.35:125][425]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2021.04.27-22.29.35:128][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003057s)
+[2021.04.27-22.29.35:129][425]LogAIModule: Creating AISystem for world Untitled_3
+[2021.04.27-22.29.35:129][425]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2021.04.27-22.29.35:129][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.004317s)
+[2021.04.27-22.29.35:150][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.27-22.29.35:152][425]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.29.35:152][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.29.35:152][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.29.35:153][425]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.29.35:153][425]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.29.35:160][425]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.29.35:160][425]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.29.35:231][425]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.29.35:232][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.29.35:232][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.29.35:232][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.29.35:232][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.29.35:232][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.29.35:232][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.29.35:253][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.29.35:253][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.29.35:253][425]LogInit: FAudioDevice initialized.
+[2021.04.27-22.29.35:253][425]LogAudio: Display: Audio Device (ID: 50) registered with world 'Untitled_3'.
+[2021.04.27-22.29.35:265][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.29.35:269][425]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 60) at 2021.04.27-15.29.35
+[2021.04.27-22.29.35:269][425]LogWorld: Bringing up level for play took: 0.001547
+[2021.04.27-22.29.35:269][425]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.04.27-22.29.35:288][425]PIE: Server logged in
+[2021.04.27-22.29.35:289][425]PIE: Play in editor total start time 0.165 seconds.
+[2021.04.27-22.29.37:224][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.29.37:224][533]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_3
+[2021.04.27-22.29.37:225][533]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.29.37:225][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.29.37:238][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.29.37:242][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.29.37:260][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.29.37:261][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.29.37:262][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.29.37:293][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.29.37:297][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.27-22.29.37:337][534]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.04.27-22.29.38:800][620]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.55:729][621]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.55:874][629]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.29.56:846][676]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.27-22.29.56:873][676]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.27-22.30.00:206][875]LogContentBrowser: Attempting asset rename: NewFolder -> UserInterfaces
+[2021.04.27-22.30.00:243][875]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.27-22.30.01:773][964]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.02:034][979]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.03:422][ 44]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.03:454][ 45]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.04:831][127]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.06:605][228]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.04.27-22.30.06:616][228]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.04.27-22.30.07:989][310]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.04.27-22.30.07:993][310]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.08:302][310]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.04.27-22.30.08:888][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.08:925][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterfaces/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.04.27-22.30.09:048][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.16:073][660]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.20:920][933]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.23:306][ 20]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.34:240][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.36:969][793]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.27-22.30.39:226][927]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2021.04.27-22.30.39:337][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.04.27-22.30.46:489][332]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.48:427][440]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.48:596][446]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.49:445][480]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.50:526][512]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.51:173][548]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.51:674][577]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.53:549][673]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.55:521][782]LogSlate: Window 'NewWidgetBlueprint' being destroyed
+[2021.04.27-22.30.55:631][782]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.30.55:644][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.30.55:659][782]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.30.55:659][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.30.55:736][782]LogSlate: Window 'ImmersiveSymphony - Unreal Editor' being destroyed
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SourceControl
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingQuality
+[2021.04.27-22.30.55:901][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingDensity
+[2021.04.27-22.30.55:902][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingResolution
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.EditorModes
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.CompileComboButton
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2021.04.27-22.30.55:903][782]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar
+[2021.04.27-22.30.55:938][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.30.55:945][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.30.55:956][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.30.55:964][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.30.55:982][782]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.57:814][876]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.58:229][899]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.30.58:273][899]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterfaces/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.04.27-22.30.58:331][899]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.01:390][ 45]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.02:194][ 87]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.03:142][143]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.03:255][149]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.03:924][188]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.05:519][276]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.06:803][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.07:587][397]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.11:653][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.13:504][743]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.14:549][799]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.15:224][835]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.18:085][986]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.18:106][986]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.19:302][ 57]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.19:321][ 57]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.34:076][887]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.34:656][912]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.38:772][148]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2021.04.27-22.31.38:861][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.04.27-22.31.39:827][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.39:926][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.39:943][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterfaces/NewWidgetBlueprint" FILE="../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset" SILENT=true
+[2021.04.27-22.31.39:957][203]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/NewWidgetBlueprint841DDECA447D000FB9BFC9B17D372D08.tmp' to '../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset'
+[2021.04.27-22.31.39:961][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.40:186][203]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2021.04.27-22.31.40:186][203]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterfaces/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.04.27-22.31.48:508][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.27-22.31.48:514][682]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.31.48:555][682]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.31.48:556][682]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.31.48:556][682]LightingResults: New page: Lighting Build
+[2021.04.27-22.31.48:556][682]LoadErrors: New page: Loading map: DisplayRoom.umap
+[2021.04.27-22.31.48:557][682]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.31.48:557][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.31.48:557][682]MapCheck: New page: Map Check
+[2021.04.27-22.31.48:557][682]LightingResults: New page: Lighting Build
+[2021.04.27-22.31.48:577][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.31.48:583][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.04.27-22.31.48:584][682]LogAudio: Display: Audio Device (ID: 1) registered with world 'DisplayRoom'.
+[2021.04.27-22.31.48:588][682]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.31.48:588][682]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.31.48:614][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.27-22.31.48:631][682]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.31.48:631][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2021.04.27-22.31.48:631][682]LogFileHelpers: Loading map 'DisplayRoom' took 0.076
+[2021.04.27-22.32.07:114][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ukulele_Stand)
+[2021.04.27-22.32.09:458][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.27-22.32.09:467][916]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.09:515][916]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/360Relaxation.360Relaxation
+[2021.04.27-22.32.09:515][916]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.32.09:515][916]LightingResults: New page: Lighting Build
+[2021.04.27-22.32.09:515][916]LoadErrors: New page: Loading map: 360Relaxation.umap
+[2021.04.27-22.32.09:517][916]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.32.09:517][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.32.09:517][916]MapCheck: New page: Map Check
+[2021.04.27-22.32.09:518][916]LightingResults: New page: Lighting Build
+[2021.04.27-22.32.09:539][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.32.09:544][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.27-22.32.09:545][916]LogAudio: Display: Audio Device (ID: 1) registered with world '360Relaxation'.
+[2021.04.27-22.32.09:548][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.32.09:548][916]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.32.09:574][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.04.27-22.32.09:591][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.32.09:591][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.04.27-22.32.09:591][916]LogFileHelpers: Loading map '360Relaxation' took 0.076
+[2021.04.27-22.32.13:570][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2021.04.27-22.32.22:660][675]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.22:696][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.32.28:233][954]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.32.28:233][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.32.28:291][954]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.28:305][954]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.32.30:786][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.37:037][421]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.37:521][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.52:652][320]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.52:667][320]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.27-22.32.55:316][469]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.32.55:668][479]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.02:627][866]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.33.02:665][866]LogBlueprint: Error: [AssetLog] D:\github\Immersive-Symphony\Content\MyBlueprints\Sphere_Blueprint.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.04.27-22.33.02:719][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.04.27-22.33.04:798][978]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.06:483][ 71]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.30:330][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.31:987][438]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.33.32:030][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.27-22.33.32:590][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.32:675][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.33.32:698][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Sphere_Blueprint" FILE="../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset" SILENT=true
+[2021.04.27-22.33.32:715][468]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/Sphere_Blueprint92B28DCB4F55B88F90817F9702DE13EA.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset'
+[2021.04.27-22.33.32:728][468]AssetCheck: New page: Asset Save: Sphere_Blueprint
+[2021.04.27-22.33.32:728][468]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.33.35:214][608]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.33.35:227][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.33.35:228][608]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:33:35 AM)
+[2021.04.27-22.33.35:228][608]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.33.35:231][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003154s)
+[2021.04.27-22.33.35:233][608]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.33.35:233][608]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2021.04.27-22.33.35:233][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.005372s)
+[2021.04.27-22.33.35:260][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.27-22.33.35:261][608]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.33.35:262][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.33.35:262][608]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.33.35:262][608]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.33.35:268][608]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.33.35:268][608]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.33.35:326][608]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.33.35:327][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.33.35:327][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.33.35:327][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.33.35:327][608]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.33.35:327][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.33.35:327][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.33.35:352][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.33.35:352][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.33.35:352][608]LogInit: FAudioDevice initialized.
+[2021.04.27-22.33.35:352][608]LogAudio: Display: Audio Device (ID: 51) registered with world '360Relaxation'.
+[2021.04.27-22.33.35:363][608]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.33.35:365][608]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.33.35
+[2021.04.27-22.33.35:365][608]LogWorld: Bringing up level for play took: 0.000615
+[2021.04.27-22.33.35:365][608]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.04.27-22.33.35:369][608]PIE: Server logged in
+[2021.04.27-22.33.35:370][608]PIE: Play in editor total start time 0.144 seconds.
+[2021.04.27-22.33.41:874][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.33.41:874][995]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.33.41:875][995]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.33.41:875][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.33.41:889][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.33.41:909][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.33.41:934][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.33.41:934][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.33.41:936][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.33.41:960][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.33.41:964][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.27-22.33.42:009][996]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.04.27-22.33.46:493][236]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.03:444][204]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.03:912][221]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.15:637][888]BlueprintLog: New page: Compile Sphere_Blueprint
+[2021.04.27-22.34.15:681][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.04.27-22.34.16:126][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.16:226][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.16:252][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/Sphere_Blueprint" FILE="../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset" SILENT=true
+[2021.04.27-22.34.16:273][911]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/Sphere_Blueprint4AA3EE56439F905C0CE659B06984B8AF.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyBlueprints/Sphere_Blueprint.uasset'
+[2021.04.27-22.34.16:299][911]AssetCheck: New page: Asset Save: Sphere_Blueprint
+[2021.04.27-22.34.16:299][911]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.04.27-22.34.20:106][126]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.20:488][145]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.20:872][163]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.21:676][209]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.21:702][209]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyMaps/360Relaxation.360Relaxation:PersistentLevel.360Relaxation
+[2021.04.27-22.34.23:536][288]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.24:024][306]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.43:328][922]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.34.44:228][964]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.06:473][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.06:487][270]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.27-22.35.12:907][638]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.43:147][ 47]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.49:089][388]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.49:534][404]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.53:706][642]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.56:752][809]BlueprintLog: New page: Compile 360Relaxation
+[2021.04.27-22.35.56:790][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.27-22.35.57:305][837]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.57:406][837]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.35.57:421][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/360Relaxation" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-22.35.57:451][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.27-22.35.57:472][837]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/360Relaxation3058C3774F54917ADBCA81ACCA588303.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/360Relaxation.umap'
+[2021.04.27-22.35.57:493][837]LogFileHelpers: Saving map '360Relaxation' took 0.072
+[2021.04.27-22.35.57:508][837]AssetCheck: New page: Asset Save: 360Relaxation
+[2021.04.27-22.35.57:508][837]LogContentValidation: Display: Validating World /Game/MyMaps/360Relaxation.360Relaxation
+[2021.04.27-22.35.59:916][972]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.35.59:928][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.35.59:928][972]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:35:59 AM)
+[2021.04.27-22.35.59:928][972]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.35.59:931][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003119s)
+[2021.04.27-22.35.59:933][972]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.35.59:933][972]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2021.04.27-22.35.59:933][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.004978s)
+[2021.04.27-22.35.59:962][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.27-22.35.59:964][972]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.35.59:964][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.35.59:964][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.35.59:965][972]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.35.59:965][972]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.35.59:970][972]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.35.59:970][972]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.36.00:030][972]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.36.00:031][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.36.00:031][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.36.00:031][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.36.00:031][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.36.00:031][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.36.00:031][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.36.00:052][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.36.00:052][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.36.00:052][972]LogInit: FAudioDevice initialized.
+[2021.04.27-22.36.00:052][972]LogAudio: Display: Audio Device (ID: 52) registered with world '360Relaxation'.
+[2021.04.27-22.36.00:063][972]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.36.00:065][972]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.36.00
+[2021.04.27-22.36.00:066][972]LogWorld: Bringing up level for play took: 0.000663
+[2021.04.27-22.36.00:066][972]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.04.27-22.36.00:118][972]PIE: Server logged in
+[2021.04.27-22.36.00:119][972]PIE: Play in editor total start time 0.193 seconds.
+[2021.04.27-22.36.01:777][ 66]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.02:458][107]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.02:758][125]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.02:975][138]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.03:141][148]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.03:325][159]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.03:509][170]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.03:691][181]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.03:858][191]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.04:041][202]LogBlueprintUserMessages: [NewWidgetBlueprint_C_0] Hello
+[2021.04.27-22.36.08:795][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.36.08:795][485]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.36.08:795][485]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.36.08:795][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.36.08:805][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.36.08:825][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.36.08:852][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.36.08:852][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.36.08:853][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.36.08:882][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.27-22.36.08:930][486]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.04.27-22.36.26:612][498]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.36.27:136][519]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.36.37:004][ 92]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2021.04.27-22.36.37:038][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.27-22.36.38:595][181]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.36.38:683][181]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.36.38:706][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterfaces/NewWidgetBlueprint" FILE="../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset" SILENT=true
+[2021.04.27-22.36.38:720][181]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/NewWidgetBlueprintB4A295CD442394E1DC8F04956423ECBE.tmp' to '../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset'
+[2021.04.27-22.36.38:734][181]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2021.04.27-22.36.38:734][181]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterfaces/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.04.27-22.36.41:085][305]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.36.41:101][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.36.41:101][305]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:36:41 AM)
+[2021.04.27-22.36.41:102][305]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.36.41:106][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003974s)
+[2021.04.27-22.36.41:107][305]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.36.41:107][305]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2021.04.27-22.36.41:107][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.005624s)
+[2021.04.27-22.36.41:140][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.27-22.36.41:142][305]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.36.41:142][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.36.41:143][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.36.41:143][305]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.36.41:143][305]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.36.41:150][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.36.41:150][305]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.36.41:219][305]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.36.41:219][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.36.41:219][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.36.41:219][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.36.41:220][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.36.41:220][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.36.41:220][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.36.41:245][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.36.41:245][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.36.41:245][305]LogInit: FAudioDevice initialized.
+[2021.04.27-22.36.41:245][305]LogAudio: Display: Audio Device (ID: 53) registered with world '360Relaxation'.
+[2021.04.27-22.36.41:255][305]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.36.41:256][305]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.36.41
+[2021.04.27-22.36.41:256][305]LogWorld: Bringing up level for play took: 0.000954
+[2021.04.27-22.36.41:256][305]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.04.27-22.36.41:261][305]PIE: Server logged in
+[2021.04.27-22.36.41:262][305]PIE: Play in editor total start time 0.162 seconds.
+[2021.04.27-22.36.45:195][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.36.45:195][537]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.36.45:195][537]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.36.45:195][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.36.45:204][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.36.45:225][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.36.45:251][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.36.45:251][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.36.45:253][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.36.45:279][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.36.45:282][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.27-22.36.45:327][538]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.04.27-22.37.12:735][957]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.37.15:463][106]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.37.16:370][143]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.37.16:991][176]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.38.14:406][551]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2021.04.27-22.38.14:442][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.27-22.38.15:043][583]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.38.15:133][583]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.38.15:158][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterfaces/NewWidgetBlueprint" FILE="../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset" SILENT=true
+[2021.04.27-22.38.15:171][583]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/NewWidgetBlueprint96DC704B4E62976BA8902C8B547838BD.tmp' to '../../../../../../github/Immersive-Symphony/Content/UserInterfaces/NewWidgetBlueprint.uasset'
+[2021.04.27-22.38.15:186][583]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2021.04.27-22.38.15:186][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterfaces/NewWidgetBlueprint.NewWidgetBlueprint
+[2021.04.27-22.38.18:320][763]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.38.18:333][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.38.18:333][763]PIE: New page: PIE session: 360Relaxation (Apr 27, 2021, 8:38:18 AM)
+[2021.04.27-22.38.18:333][763]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.38.18:337][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003597s)
+[2021.04.27-22.38.18:339][763]LogAIModule: Creating AISystem for world 360Relaxation
+[2021.04.27-22.38.18:339][763]LogPlayLevel: PIE: World Init took: (0.002003s)
+[2021.04.27-22.38.18:339][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/360Relaxation.360Relaxation to /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation (0.005774s)
+[2021.04.27-22.38.18:369][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.27-22.38.18:371][763]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.38.18:371][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.38.18:371][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.38.18:372][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.38.18:372][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.38.18:377][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.38.18:377][763]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.38.18:442][763]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.38.18:443][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.38.18:443][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.38.18:443][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.38.18:443][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.38.18:443][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.38.18:443][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.38.18:468][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.38.18:468][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.38.18:468][763]LogInit: FAudioDevice initialized.
+[2021.04.27-22.38.18:468][763]LogAudio: Display: Audio Device (ID: 54) registered with world '360Relaxation'.
+[2021.04.27-22.38.18:478][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.38.18:481][763]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_360Relaxation.360Relaxation up for play (max tick rate 60) at 2021.04.27-15.38.18
+[2021.04.27-22.38.18:481][763]LogWorld: Bringing up level for play took: 0.000869
+[2021.04.27-22.38.18:481][763]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.04.27-22.38.18:486][763]PIE: Server logged in
+[2021.04.27-22.38.18:487][763]PIE: Play in editor total start time 0.156 seconds.
+[2021.04.27-22.38.21:095][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.38.21:095][917]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_360Relaxation
+[2021.04.27-22.38.21:095][917]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.38.21:096][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.38.21:104][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.38.21:125][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.38.21:152][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.38.21:152][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.38.21:153][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.38.21:177][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.38.21:182][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.27-22.38.21:229][918]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.04.27-22.38.27:095][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.27-22.38.33:457][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.27-22.38.33:463][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.38.33:518][554]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/DisplayRoom.DisplayRoom
+[2021.04.27-22.38.33:518][554]Cmd: MAP LOAD FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.27-22.38.33:518][554]LightingResults: New page: Lighting Build
+[2021.04.27-22.38.33:518][554]LoadErrors: New page: Loading map: DisplayRoom.umap
+[2021.04.27-22.38.33:535][554]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.38.33:535][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.38.33:580][554]LogWorld: UWorld::CleanupWorld for 360Relaxation, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.38.33:580][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.38.33:580][554]MapCheck: New page: Map Check
+[2021.04.27-22.38.33:580][554]LightingResults: New page: Lighting Build
+[2021.04.27-22.38.33:605][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.38.33:611][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.27-22.38.33:611][554]LogAudio: Display: Audio Device (ID: 1) registered with world 'DisplayRoom'.
+[2021.04.27-22.38.33:616][554]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.27-22.38.33:616][554]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.38.33:646][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.27-22.38.33:664][554]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.27-22.38.33:664][554]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.04.27-22.38.33:664][554]LogFileHelpers: Loading map 'DisplayRoom' took 0.146
+[2021.04.27-22.39.25:562][662]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight)
+[2021.04.27-22.39.32:365][ 67]Cmd: DUPLICATE
+[2021.04.27-22.39.32:365][ 67]Cmd: ACTOR DUPLICATE
+[2021.04.27-22.39.41:216][584]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Trumpet_SpotLight)
+[2021.04.27-22.40.05:716][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.40.05:730][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.40.05:730][ 24]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:40:05 AM)
+[2021.04.27-22.40.05:730][ 24]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.40.05:735][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004975s)
+[2021.04.27-22.40.05:736][ 24]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.40.05:737][ 24]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.04.27-22.40.05:737][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.006663s)
+[2021.04.27-22.40.05:767][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.04.27-22.40.05:770][ 24]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.40.05:770][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.40.05:770][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.40.05:771][ 24]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.40.05:771][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.40.05:776][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.40.05:776][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.40.05:833][ 24]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.40.05:834][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.40.05:836][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.40.05:836][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.40.05:836][ 24]LogInit: FAudioDevice initialized.
+[2021.04.27-22.40.05:836][ 24]LogAudio: Display: Audio Device (ID: 55) registered with world 'DisplayRoom'.
+[2021.04.27-22.40.05:862][ 24]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.40.05:866][ 24]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.40.05
+[2021.04.27-22.40.05:867][ 24]LogWorld: Bringing up level for play took: 0.002155
+[2021.04.27-22.40.05:867][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.04.27-22.40.05:871][ 24]PIE: Server logged in
+[2021.04.27-22.40.05:872][ 24]PIE: Play in editor total start time 0.142 seconds.
+[2021.04.27-22.40.14:624][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.40.14:624][546]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.40.14:624][546]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.40.14:625][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.40.14:639][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.40.14:644][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.40.14:669][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.40.14:669][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.40.14:671][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.40.14:698][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.27-22.40.14:727][547]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.04.27-22.40.20:125][870]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight2)
+[2021.04.27-22.40.21:824][969]Cmd: DUPLICATE
+[2021.04.27-22.40.21:824][969]Cmd: ACTOR DUPLICATE
+[2021.04.27-22.40.35:201][765]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Oud_SpotLight)
+[2021.04.27-22.40.40:012][ 46]LogEditorViewport: Clicking on Actor (LMB): SpotLight (Ukulele_SpotLight3)
+[2021.04.27-22.40.52:303][769]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-22.40.52:318][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-22.40.52:318][769]PIE: New page: PIE session: DisplayRoom (Apr 27, 2021, 8:40:52 AM)
+[2021.04.27-22.40.52:318][769]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.40.52:322][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004235s)
+[2021.04.27-22.40.52:323][769]LogAIModule: Creating AISystem for world DisplayRoom
+[2021.04.27-22.40.52:323][769]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2021.04.27-22.40.52:323][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/DisplayRoom.DisplayRoom to /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom (0.005553s)
+[2021.04.27-22.40.52:350][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.27-22.40.52:353][769]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-22.40.52:353][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-22.40.52:354][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-22.40.52:354][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-22.40.52:354][769]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-22.40.52:354][769]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-22.40.52:362][769]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-22.40.52:362][769]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-22.40.52:420][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.27-22.40.52:420][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.27-22.40.52:441][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.27-22.40.52:442][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.27-22.40.52:442][769]LogInit: FAudioDevice initialized.
+[2021.04.27-22.40.52:442][769]LogAudio: Display: Audio Device (ID: 56) registered with world 'DisplayRoom'.
+[2021.04.27-22.40.52:455][769]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.27-22.40.52:458][769]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_DisplayRoom.DisplayRoom up for play (max tick rate 60) at 2021.04.27-15.40.52
+[2021.04.27-22.40.52:458][769]LogWorld: Bringing up level for play took: 0.002056
+[2021.04.27-22.40.52:458][769]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.04.27-22.40.52:462][769]PIE: Server logged in
+[2021.04.27-22.40.52:464][769]PIE: Play in editor total start time 0.147 seconds.
+[2021.04.27-22.41.05:965][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.41.05:965][577]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_DisplayRoom
+[2021.04.27-22.41.05:965][577]LogWorld: UWorld::CleanupWorld for DisplayRoom, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-22.41.05:965][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.41.05:975][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-22.41.05:989][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-22.41.06:013][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.27-22.41.06:013][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.41.06:014][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.27-22.41.06:039][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-22.41.06:042][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.04.27-22.41.06:087][578]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.04.27-22.41.30:880][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.27-22.41.30:938][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.41.32:378][ 59]LogSlate: Window 'Save Content' being destroyed
+[2021.04.27-22.41.32:395][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.41.32:496][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.27-22.41.32:509][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaps/DisplayRoom" FILE="../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.27-22.41.32:540][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.27-22.41.32:573][ 59]LogSavePackage: Moving '../../../../../../github/Immersive-Symphony/Saved/DisplayRoomCE8BA2CA4A43B06B8F6C95AE9EDF875F.tmp' to '../../../../../../github/Immersive-Symphony/Content/MyMaps/DisplayRoom.umap'
+[2021.04.27-22.41.32:593][ 59]LogFileHelpers: Saving map 'DisplayRoom' took 0.086
+[2021.04.27-22.41.32:605][ 59]AssetCheck: New page: Asset Save: DisplayRoom
+[2021.04.27-22.41.32:605][ 59]LogContentValidation: Display: Validating World /Game/MyMaps/DisplayRoom.DisplayRoom
